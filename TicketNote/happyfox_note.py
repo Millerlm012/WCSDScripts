@@ -1,5 +1,3 @@
-# creating a bash script on the checkout iMac to ssh into thescriptingmachine and run the python script to handle the new students
-
 from halo import Halo
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
